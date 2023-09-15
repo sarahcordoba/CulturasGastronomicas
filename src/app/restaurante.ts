@@ -11,18 +11,26 @@ export const Restaurantes:Restaurante[] =
 [
     {
         id: 1,
-        name: 'L\'Arpège',
-        city: 'Paris',
-        country: 'France',
-        michelinStars: 3,
-        michelinDate: '2021'
+        name: '',
+        city: '',
+        country: '',
+        michelinStars: 0,
+        michelinDate: ''
       },
       {
         id: 2,
-        name: 'Le Comptoir du Relais',
-        city: 'Paris',
-        country: 'France',
-        michelinStars: 1,
-        michelinDate: '2021'
+        name: '',
+        city: '',
+        country: '',
+        michelinStars: 0,
+        michelinDate: ''
+      },
+      {
+        id: 2,
+        name: '',
+        city: '',
+        country: '',
+        michelinStars: 0,
+        michelinDate: ''
       }
 ]
